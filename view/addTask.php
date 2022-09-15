@@ -19,9 +19,9 @@ $role = $data->getRoleName();
 
 
     <!-- <link href="features.css" rel="stylesheet"> -->
-    <link href="../assets/css/carousel.rtl.css" rel="stylesheet">
-    <link href="../assets/css/prezzo-site.css" rel="stylesheet">
-    <link href="../assets/css/menu-navigation.css" rel="stylesheet">
+    <link href="../assets/css/mediaStyle.css" rel="stylesheet">
+    <link href="../assets/css/containerStyle.css" rel="stylesheet">
+    <link href="../assets/css/formStyle.css" rel="stylesheet">
 
     <title>Crud</title>
 

@@ -22,9 +22,9 @@ if (!$data->checkPer('write')){
           integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/bbbootstrap/libraries@main/choices.min.css">
     <!-- <link href="features.css" rel="stylesheet"> -->
-    <link href="../assets/css/carousel.rtl.css" rel="stylesheet">
-    <link href="../assets/css/prezzo-site.css" rel="stylesheet">
-    <link href="../assets/css/menu-navigation.css" rel="stylesheet">
+    <link href="../assets/css/mediaStyle.css" rel="stylesheet">
+    <link href="../assets/css/containerStyle.css" rel="stylesheet">
+    <link href="../assets/css/formStyle.css" rel="stylesheet">
 
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet"
           integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
