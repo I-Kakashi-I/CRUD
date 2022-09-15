@@ -110,6 +110,7 @@ $i = 0;
         if (confirm("Do You Want To Delete " + name)) {
             location.href = `../controllers/controller2.php?id=${id}`;
         }
+
     }
 </script>
 
